@@ -1,0 +1,7 @@
+-- This module is the root of the YauTianDonaldsonCanonicalLaneLean Lean proof package.
+import YauTianDonaldsonCanonicalLaneLean.Basic
+import YauTianDonaldsonCanonicalLaneLean.SourcePackage
+import YauTianDonaldsonCanonicalLaneLean.SourceDependencies
+import YauTianDonaldsonCanonicalLaneLean.Formalization
+import YauTianDonaldsonCanonicalLaneLean.ReviewerBridge
+import YauTianDonaldsonCanonicalLaneLean.TheoremStatement
